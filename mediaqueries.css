@@ -100,4 +100,13 @@
   .text-container {
     text-align: justify;
   }
+
+  .section__pic-container img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin: 0px;
+  
+  }
 }
